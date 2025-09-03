@@ -825,6 +825,10 @@
       <Project>{ae43afe0-842c-7a87-8744-8c3b985bbf6e}</Project>
       <Name>Unity.VisualScripting.Flow.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Autodesk.Fbx.Editor.csproj">
+      <Project>{61ccab10-cc54-cff4-d218-a64e2ec6c44b}</Project>
+      <Name>Autodesk.Fbx.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.csproj">
       <Project>{5a804ad7-f19d-d65f-94bf-8bb96d42e939}</Project>
       <Name>Unity.TextMeshPro</Name>
@@ -873,13 +877,25 @@
       <Project>{49b03999-343e-ec26-4685-74c9ecb6385d}</Project>
       <Name>Unity.VisualScripting.State</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Formats.Fbx.Runtime.csproj">
+      <Project>{7fee5bf1-1e62-5228-c006-4584516065ce}</Project>
+      <Name>Unity.Formats.Fbx.Runtime</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Performance.Profile-Analyzer.Editor.csproj">
       <Project>{fda54aaa-cd66-dfec-f573-a4078643437f}</Project>
       <Name>Unity.Performance.Profile-Analyzer.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Autodesk.Fbx.csproj">
+      <Project>{8055531b-9935-17c1-b36a-928232490e78}</Project>
+      <Name>Autodesk.Fbx</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
       <Project>{fee9f468-2d6d-f36d-9662-0672584e378d}</Project>
       <Name>Unity.TextMeshPro.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Formats.Fbx.Editor.csproj">
+      <Project>{935c7c35-2668-d6ab-07e6-75ed369709ef}</Project>
+      <Name>Unity.Formats.Fbx.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
       <Project>{161a2dc1-00c2-fbfa-919f-9adc68751473}</Project>

@@ -356,3 +356,263 @@ Received Import Request.
 Start importing Assets/_Ball/Crane/cabin_normal.png using Guid(3929cd095ec25014888231c57bcf546e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf3e0383fb59f4be2498c9addbdbdff0') in 0.0077469 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
+========================================================================
+Received Import Request.
+  Time since last request: 1040.212879 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_00.asset
+  artifactKey: Guid(96522cee4fd9845e9905af8ee19fb3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_00.asset using Guid(96522cee4fd9845e9905af8ee19fb3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '837fddf4284d51a0308b0de4fde635c4') in 0.0108076 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_02.asset
+  artifactKey: Guid(7e56fab54598940dfa90bff829e2b24f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_02.asset using Guid(7e56fab54598940dfa90bff829e2b24f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'befb67d18544397f7b84cb7d3678b51e') in 0.0064983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.917347 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BIG_02.asset
+  artifactKey: Guid(231d7c226b9674879a6b49590095d600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BIG_02.asset using Guid(231d7c226b9674879a6b49590095d600) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1aa6633dd3d51b83e666e6dcbb145832') in 0.005857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027694 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BIG_01.asset
+  artifactKey: Guid(582310d5c1095420e9806e09e0954b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BIG_01.asset using Guid(582310d5c1095420e9806e09e0954b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c571a458543a225ce36470644c4ec94') in 0.005085 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024514 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BIG_00.asset
+  artifactKey: Guid(99a8b96c72a9c43b2a354c74545b4617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BIG_00.asset using Guid(99a8b96c72a9c43b2a354c74545b4617) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3281dad2d2fa308db6cd81ef2ee9afc4') in 0.0056159 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027259 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_09.asset
+  artifactKey: Guid(9c9dd1e3e04b248998d58091201f59ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_09.asset using Guid(9c9dd1e3e04b248998d58091201f59ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f6467a0721d99d17244671408d5cf8b') in 0.005182 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.651710 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_08.asset
+  artifactKey: Guid(ece0f8d5926614a3eb07e8793b7bba09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_08.asset using Guid(ece0f8d5926614a3eb07e8793b7bba09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '599b270ab5f604d4149dcbf94f56681d') in 0.0056755 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035960 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_07.asset
+  artifactKey: Guid(36a2fbbeb2a114ff8bf8b82561bb2458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_07.asset using Guid(36a2fbbeb2a114ff8bf8b82561bb2458) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '30ac0137f4f7593e0852553d94efcf3b') in 0.0055247 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.340704 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_06.asset
+  artifactKey: Guid(f94d2049a75554a7c948034169f6d03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_06.asset using Guid(f94d2049a75554a7c948034169f6d03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f815cbf8e5b0fc5b1446cd8fb1229d3') in 0.0057467 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022947 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_05.asset
+  artifactKey: Guid(96a2d57678b2e49adb2b81deef3be6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_05.asset using Guid(96a2d57678b2e49adb2b81deef3be6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80a11ae8c1694067c7eb8b3df4e7a788') in 0.0048381 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025833 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_04.asset
+  artifactKey: Guid(578527041557940239d59a4262ee5baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_04.asset using Guid(578527041557940239d59a4262ee5baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afb1aff4f9fc98ad698eac89ee8eec9c') in 0.0049353 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025437 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_03.asset
+  artifactKey: Guid(744ba29e3024d45fab79f16e41f90d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_03.asset using Guid(744ba29e3024d45fab79f16e41f90d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'caae819823e62e6f3aa2d6e2ff44a0ba') in 0.0047033 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.248960 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_02.asset
+  artifactKey: Guid(cdfe67ade9985460687685e190954ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_02.asset using Guid(cdfe67ade9985460687685e190954ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'acd98303242ed42575c00cf3d59f1eb9') in 0.0058271 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025845 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_01.asset
+  artifactKey: Guid(e9f7e1edb78d048c387ae8910a2f0d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_01.asset using Guid(e9f7e1edb78d048c387ae8910a2f0d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5537c93a90228c3b3a161e45a2b9e20a') in 0.0046947 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013231 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_00.asset
+  artifactKey: Guid(dc5033e5e3a1d4ccb8beefb1557ac3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_BASE_00.asset using Guid(dc5033e5e3a1d4ccb8beefb1557ac3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8b95e2ecec60bacbfab03375b827f9c') in 0.0045857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034413 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_19.png
+  artifactKey: Guid(ed955572f997740adbebb966a9fbc46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_19.png using Guid(ed955572f997740adbebb966a9fbc46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b8b1b5efe0ea9e033bff7e9464a7aee') in 0.0048316 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.418604 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_19.mat
+  artifactKey: Guid(a550ab366774f4cd0b832cfb698e9ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_19.mat using Guid(a550ab366774f4cd0b832cfb698e9ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d7d05593314a6f088fb24ad1a6fbb5d') in 0.0061159 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026563 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_18.png
+  artifactKey: Guid(330a614cb4adb4ad0b49f6dd7092753e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_18.png using Guid(330a614cb4adb4ad0b49f6dd7092753e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6efbe27c44234becd3f2b71cf091a18c') in 0.0053638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014887 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_18.mat
+  artifactKey: Guid(5d13e8648fb194856ab425f77762a60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_18.mat using Guid(5d13e8648fb194856ab425f77762a60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43e097b0ada43a7e2f48664bfb1e935c') in 0.0059209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060134 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/ALL BLD.mat
+  artifactKey: Guid(93fe61dc2bac240d795efd236b0037ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/ALL BLD.mat using Guid(93fe61dc2bac240d795efd236b0037ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f322703b2f85db294719151a588901af') in 0.0061176 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.545200 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_05.asset
+  artifactKey: Guid(b065bbc9c8a23465aa236ca82faeab93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_05.asset using Guid(b065bbc9c8a23465aa236ca82faeab93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '021542c79902d8238621a2e716db8852') in 0.0060652 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.286912 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/ALL BLD.jpg
+  artifactKey: Guid(cccb8c1d855854271a307fada96eb861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/ALL BLD.jpg using Guid(cccb8c1d855854271a307fada96eb861) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'adf39672fa5b8c90d66196c3de95fa7a') in 0.0060566 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 486.570718 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Pavement_Sewer_01.asset
+  artifactKey: Guid(b63971ea59fc2454ca06b1523d4229ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Pavement_Sewer_01.asset using Guid(b63971ea59fc2454ca06b1523d4229ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ec14a2b7e353da709ed3aad9fa5cc1c') in 0.0097481 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004765 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_01.asset
+  artifactKey: Guid(d0907da8e95e94861885172de22be834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_01.asset using Guid(d0907da8e95e94861885172de22be834) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'be1f41ee145776ba9cc1386bb4084efd') in 0.0075406 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_Arrow_01.asset
+  artifactKey: Guid(b1101a3c00d62420bb1a07cdd7c74d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_Arrow_01.asset using Guid(b1101a3c00d62420bb1a07cdd7c74d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de68806e6b1dfeadf6b810178a39c4c0') in 0.0047745 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_Arrow_02.asset
+  artifactKey: Guid(0e87e5c07ac6c4e7e9313df5cd9ebd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_Arrow_02.asset using Guid(0e87e5c07ac6c4e7e9313df5cd9ebd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c216f0bbc0c084d0fef9bb8b3765ec3') in 0.005661 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_Parking.asset
+  artifactKey: Guid(bb08bee71e4b645b7810ecbf9f00d7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_Parking.asset using Guid(bb08bee71e4b645b7810ecbf9f00d7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '874d7906cd9cffb0f040012817a45a4d') in 0.0055993 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_Empty.asset
+  artifactKey: Guid(2bb4bd690f31f48cb9d596e4dc2f63b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_Empty.asset using Guid(2bb4bd690f31f48cb9d596e4dc2f63b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8744a0bf4821bd5b95ee1c9ff8073136') in 0.0056696 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.675137 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/ALL ROADS_V2.mat
+  artifactKey: Guid(9118930c4e8f64e78b8da988b8e5c325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/ALL ROADS_V2.mat using Guid(9118930c4e8f64e78b8da988b8e5c325) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c32aece80fb7348ca0135f97c80358d4') in 0.0074597 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Park_Path_02.asset
+  artifactKey: Guid(6cedd5e8023b74f798dea5d94516fcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Park_Path_02.asset using Guid(6cedd5e8023b74f798dea5d94516fcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e716c05b8a49a9da04c2c68c38f2c963') in 0.0061714 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.940769 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Pavement_Border.asset
+  artifactKey: Guid(c6efec0c7356749e38cfd325c08c47d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Pavement_Border.asset using Guid(c6efec0c7356749e38cfd325c08c47d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d912786687394e31c06fcfe0d868a41') in 0.0057001 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_Simple.asset
+  artifactKey: Guid(2ae681d3f0aa2452b9d7ed9ff8f4ac08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/Ground/Meshes/Road_Simple.asset using Guid(2ae681d3f0aa2452b9d7ed9ff8f4ac08) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b9ef1d8a74f0361bfee5d8c2600f188') in 0.0056739 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

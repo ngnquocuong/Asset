@@ -315,3 +315,31 @@ Received Import Request.
 Start importing Assets/_Ball/Crane/interior.mat using Guid(3501b2307e7b5634b829ddb84a414de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd80b317b981ea83fc803c5a18f5648ac') in 0.096854 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
+========================================================================
+Received Import Request.
+  Time since last request: 1170.626418 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_01.asset
+  artifactKey: Guid(f036a9e9556454526be2f0e6a7f23116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_01.asset using Guid(f036a9e9556454526be2f0e6a7f23116) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0da1391d1780a1a39a9663f2d06b93d1') in 0.0101464 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_03.asset
+  artifactKey: Guid(6fdaad9f1dd2e4311b6d024f62a037e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_03.asset using Guid(6fdaad9f1dd2e4311b6d024f62a037e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d4d717d90d352f4fe0609257ad2479d') in 0.0064553 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_04.asset
+  artifactKey: Guid(9be32331cc2c3498985ed9b24fd083b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPackages/AssetPacks/AntonyCity/Prefabs/ComposedBuildings/Meshes/BLD_FLOOR_04.asset using Guid(9be32331cc2c3498985ed9b24fd083b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b4735c9fcb35c8d16b6eb4131e6dca41') in 0.0046127 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
